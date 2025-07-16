@@ -10,13 +10,16 @@ A \code{\link{data.frame}} with tabulated data and conversion factor reference.
 \source{
 Adamiec, G. & Aitken, M.J. (1998).
 Dose-rate conversion factors: update. \emph{Ancient TL}, 16, p. 37–50.
+\doi{10.26034/la.atl.1998.292}
 
 Cresswell, A.J., Carter, J. & Sanderson, D.C.W. (2018). Dose rate
 conversion parameters: Assessment of nuclear data.
 \emph{Radiation Measurements}, 120, p. 195–201.
+\doi{10.1016/j.radmeas.2018.02.007}
 
 Guérin, G., Mercier, N. & Adamiec, G. (2011). Dose-Rate Conversion Factors:
 Update. \emph{Ancient TL}, 29(1), p. 5-8.
+\doi{10.26034/la.atl.2011.443}
 
 Liritzis, I., Stamoulis, K., Papachristodoulou, C. & Ioannides, K. (2013).
 A re-evaluation of radiation dose-rate conversion factors.
@@ -25,6 +28,7 @@ A re-evaluation of radiation dose-rate conversion factors.
 Miallier, D., Guérin, G., Mercier, N., Pilleyre, T. & Sanzelle, S.
 (2009). The Clermont Radiometric Reference Rocks: A Convenient Tool
 for Dosimetric Purposes. \emph{Ancient TL}, 27(2), p. 37-44.
+\doi{10.26034/la.atl.2009.428}
 }
 \usage{
 data("clermont_2024")
