@@ -104,6 +104,39 @@ NULL
 #' @keywords datasets
 "clermont_2024"
 
+# ==============================================================================
+#' Heidelberg Reference Data 2024
+#'
+#' Reference data for the calibration sites near Heidelberg as detailed
+#' in Kreutzer at al. (2025)
+#'
+#' @usage data("heidelberg_2024")
+#' @format A [`data.frame`] with tabulated data and conversion factor reference.
+#' @source
+#'  Adamiec, G. & Aitken, M.J. (1998).
+#'  Dose-rate conversion factors: update. *Ancient TL*, 16, p. 37–50.
+#'
+#'  Cresswell, A.J., Carter, J. & Sanderson, D.C.W. (2018). Dose rate
+#'  conversion parameters: Assessment of nuclear data.
+#'  *Radiation Measurements*, 120, p. 195–201.
+#'
+#'  Guérin, G., Mercier, N. & Adamiec, G. (2011). Dose-Rate Conversion Factors:
+#'  Update. *Ancient TL*, 29(1), p. 5-8.
+#'
+#'  Liritzis, I., Stamoulis, K., Papachristodoulou, C. & Ioannides, K. (2013).
+#'  A re-evaluation of radiation dose-rate conversion factors.
+#'  *Mediterranean Archaeology and Archaeometry*, 12, p. 1–15.
+#'
+#'  Miallier, D., Guérin, G., Mercier, N., Pilleyre, T. & Sanzelle, S.
+#'  (2009). The Clermont Radiometric Reference Rocks: A Convenient Tool
+#'  for Dosimetric Purposes. *Ancient TL*, 27(2), p. 37-44.
+#' @family datasets
+#' @references Kreutzer, S., Martin, L., Miallier, D., Mercier, N., 2025.
+#' Environmental gamma dose rate measurements using cadmium zinc telluride (CZT) detectors.
+#' Geochronology 7, 229–246. \doi{10.5194/gchron-7-229-2025}
+#' @keywords datasets
+"heidelberg_2024"
+
 #' CEREGE Calibration Curve (NaI)
 #'
 #' @usage data(AIX_NaI_1)

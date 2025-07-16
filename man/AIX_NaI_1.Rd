@@ -28,7 +28,8 @@ plot(AIX_NaI_1)
 Other datasets: 
 \code{\link{BDX_LaBr_1}},
 \code{\link{clermont}},
-\code{\link{clermont_2024}}
+\code{\link{clermont_2024}},
+\code{\link{heidelberg_2024}}
 }
 \concept{datasets}
 \keyword{datasets}
