@@ -2,7 +2,7 @@
 #' Nuclear Decay Data
 #'
 #' An internal dataset containing the decay data for the following isotopes:
-#' 232-Th, 235-U, 238-U and 40-K.
+#' Th-232, U-235, U-238 and K-40.
 #' @format
 #'  A [`data.frame`] with the following columns (absolute errors):
 #'  \describe{
