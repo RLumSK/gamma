@@ -27,6 +27,7 @@ Clermont Reference Data
 Other datasets: 
 \code{\link{AIX_NaI_1}},
 \code{\link{BDX_LaBr_1}},
+\code{\link{HD_CZT_1}},
 \code{\link{clermont_2024}},
 \code{\link{heidelberg_2024}}
 }

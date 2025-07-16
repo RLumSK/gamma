@@ -27,6 +27,7 @@ plot(BDX_LaBr_1)
 \seealso{
 Other datasets: 
 \code{\link{AIX_NaI_1}},
+\code{\link{HD_CZT_1}},
 \code{\link{clermont}},
 \code{\link{clermont_2024}},
 \code{\link{heidelberg_2024}}

@@ -3,8 +3,8 @@
 * Add user friendly coercion methods: `as_peaks()` and `as_spectra()`.
 
 ## Datasets
-* Add reference datasets for calibration sites around Heidelberg as detailed 
-in Kreutzer et al. (2025, Geochronology)
+* Add reference datasets for calibration sites around Heidelberg and the CZT detector calibration 
+files as detailed in Kreutzer et al. (2025, Geochronology)
 
 # gamma 1.1.0
 ## Bugfixes

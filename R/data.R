@@ -185,3 +185,45 @@ NULL
 #' @family datasets
 #' @keywords datasets
 "BDX_LaBr_1"
+
+#' heiLUM Calibration Curve (CZT)
+#'
+#' @usage data(HD_CZT_1)
+#' @format
+#' Objects of class [CalibrationCurve-class].
+#' \tabular{ll}{
+#'  **Laboratory** \tab heiLUM, Heidelberg University, DE \cr
+#'  **Instrument** \tab Kromek GR1 & Kromek RayMon10 (SN: 5261)\cr
+#'  **Detector** \tab GR1+ (SN: 1625) & GR1 (SN: 1663) \cr
+#'  **Authors** \tab Sebastian Kreutzer, Didier Maillier, Norbert Mercier, heiLUM Team
+#' }
+#'
+#' The calibration dataset consists of the following objects:
+#'
+#' * CAL_GR1_AdamiecAitken1998
+#' * CAL_GR1_Cresswelletal2018
+#' * CAL_GR1_Gurinetal2011
+#' * CAL_GR1_Liritzisetal2013
+#' * CAL_RAYMON_GR1_AdamiecAitken1998
+#' * CAL_RAYMON_GR1_Cresswelletal2018
+#' * CAL_RAYMON_GR1_Gurinetal2011
+#' * CAL_RAYMON_GR1_Liritzisetal2013
+#'
+#' @examples
+#' ## Load the curve
+#' data(HD_CZT_1, package = "gamma")
+#' names(HD_CZT_1)
+#' plot(HD_CZT_1$CAL_GR1_AdamiecAitken1998)
+#'
+#' @references
+#' Kreutzer, S., Martin, L., Miallier, D. & Mercier, N. (2025).
+#' Environmental gamma dose rate measurements using cadmium zinc telluride (CZT) detectors.
+#' *Geochronology*, 7, p. 229–246. \doi{10.5194/gchron-7-229-2025}
+#'
+#' Kreutzer, S., Martin, L., Miallier, D., Mercier, N. & Faske, M. (2024).
+#' Dataset: Environmental Gamma Dose Rate Measurements using CZT Detectors (1.0.0).
+#' *Zenodo*. \doi{10.5281/zenodo.13731839}
+#'
+#' @family datasets
+#' @keywords datasets
+"HD_CZT_1"

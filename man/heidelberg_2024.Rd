@@ -45,6 +45,7 @@ Dataset: Environmental Gamma Dose Rate Measurements using CZT Detectors (1.0.0).
 Other datasets: 
 \code{\link{AIX_NaI_1}},
 \code{\link{BDX_LaBr_1}},
+\code{\link{HD_CZT_1}},
 \code{\link{clermont}},
 \code{\link{clermont_2024}}
 }
