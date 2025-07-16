@@ -4,7 +4,7 @@
 
 ## Datasets
 * Add reference datasets for calibration sites around Heidelberg and the CZT detector calibration 
-files as detailed in Kreutzer et al. (2025, Geochronology)
+files as detailed in Kreutzer et al. (2025, Geochronology) (PR #54 by @RLumSK)
 
 # gamma 1.1.0
 ## Bugfixes
